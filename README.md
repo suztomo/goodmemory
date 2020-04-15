@@ -1,2 +1,2 @@
 # Hitomemo ヒトメモ
-Source code of Hitomemo website suztomo.github.io/hitomemo/
+Source code of Hitomemo website https://suztomo.github.io/hitomemo/
