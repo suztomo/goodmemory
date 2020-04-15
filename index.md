@@ -1,3 +1,7 @@
+## ヒトメモ
+
+ヒトメモはあなたの周りの人のメモをとるクラウドベースのアプリです。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/suztomo/hitomemo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
