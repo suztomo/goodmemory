@@ -8,7 +8,8 @@ permalink: /ja/
 
 ヒトメモはあなたの周りの人のメモをとるクラウドベースのアプリです。
 
-- [プライバシーポリシー](ja/privacy-policy/)
+- [プライバシーポリシー](/ja/privacy-policy/)
+- [利用規約](/ja/terms-of-service/)
 
 ### サポート・フィードバック
 
