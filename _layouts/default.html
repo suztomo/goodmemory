@@ -2,9 +2,11 @@
 {% if page.permalink contains "/ja/" %}
 <html lang="ja">
 {% assign t = "ヒトメモ" %}
+{% assign downloadBadge = "/images/Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" %}
 {% else %}
 <html lang="{{ site.lang | default: "en-US" }}">
 {% assign t = "Hitomemo" %}
+{% assign downloadBadge = "/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" %}
 {% endif %}
 <head>
     <meta charset="UTF-8">
@@ -26,6 +28,7 @@
         <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <img src="{{downloadBadge}}" alt="Download from App Store" />
     </header>
     <section>
 
