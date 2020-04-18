@@ -39,8 +39,9 @@ The purpose of the User's Information for the provision of the Service includes 
 
 The user's permission must be obtained before collecting the following User's Information.
 
+- photos
+- contacts
 - location information
-- users' photos
 
 If the user specifies a certain setting, the user is entitled to require the App, and 
 the App shall immediately, discontinue the use of any or all of the User's Information.
@@ -55,6 +56,8 @@ module in accordance with the following:
 - Google Firebase
 - Google Analytics
 - Google Admob
+
+For Google's privacy policy, please refer to https://policies.google.com/privacy.
 
 ## 5 Provision of Personal Information to Third Parties
 
@@ -88,3 +91,39 @@ Please note that the requester must pay a commission ($10 USD per application) f
 disclosure of personal information.
 
 This disclosure does not apply to the notes created by other people than the user.
+
+## 8 Correction and Suspension of Use of Personal Information 
+
+8.1 If the Author is required by the user to (1) correct the content of personal information
+under the provisions of applicable laws because such information is false, or
+(2) suspend use of personal information because such information is being handled beyond the scope
+of the purpose of the use previously made public, or has been collected in a fraudulent or otherwise
+illicit manner, then the Author shall, without delay, conduct an appropriate investigation
+after confirming the requesting party's identity, and based upon the results, correct the content
+or suspend the use of such personal information, and notify the party to that effect.
+The user shall also be notified of any determination, if applicable, not to correct or suspend
+the use of such information, together with the justification for such determination.
+
+8.2 In the event that the Author is required by the user to delete its personal information
+and has determined that it is necessary to accept such request, the Author shall delete such
+personal information confirming the requesting party's identity and shall notify the party to
+that effect.
+
+8.3 Should the Author not be obligated to correct, or suspend use of, information pursuant 
+to applicable laws and regulations, the preceding paragraphs shall not apply.
+
+## 9 Inquiries
+
+Any suggestions, questions, complaints, or other inquiries on the handling of the User's
+Information must be submitted to the Author through the inquiry form in the App.
+
+## 10 Procedure to Amend this Privacy Policy
+
+The Author shall from time to time review how the User's Information is being handled,
+and use its best efforts to continuously improve the operation, and make such modifications
+to this Privacy Policy as may be necessary.
+Any modification to this Privacy Policy shall be notified to you by the App or emails,
+when the modification requires the notification under applicable laws or regulations.
+Provided that for any modification requiring consent from the user pursuant to
+applicable laws and regulations, such consent from the user must be obtained subject to
+the procedures as separately established by the Author.
