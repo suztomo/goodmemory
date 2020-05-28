@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "GoodMemory People Diary"
+title: "Memorio People Diary"
 permalink: /en/
 ---
 
-## GoodMemory People Diary
+## Memorio People Diary
 
-GoodMemory People Diary is a Cloud-based note app to keep important memory of people around you.
+Memorio is a Cloud-based note app to keep important memory of people around you.
 
 - [Privacy Policy]({{ "/en/privacy-policy/" | relative_url }})
 - [Terms of Service]({{ "/en/terms-of-service" | relative_url }})

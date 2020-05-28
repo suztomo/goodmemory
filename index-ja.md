@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "ヒト日記"
+title: "Memorio: 人物・やりとり記録メモ"
 permalink: /ja/
 ---
 
-## ヒト日記
+## メモリオ(Memorio): 人物・やりとり記録メモ
 
-ヒト日記はあなたの周りの人のメモをとるクラウドベースのアプリです。
+メモリオはあなたの周りの人のメモをとるクラウドベースのアプリです。
 
 - [プライバシーポリシー](/ja/privacy-policy/)
 - [利用規約](/ja/terms-of-service/)

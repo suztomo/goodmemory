@@ -1,7 +1,7 @@
-## ヒト日記
+## Memorio
 
-ヒト日記はあなたの周りの人のメモをとるクラウドベースのアプリです。
+メモリオはあなたの周りの人のメモをとるクラウドベースのアプリです。
 
-[Hitomemo (English)]({{ "en/" | relative_url }})
+[Memorio (English)]({{ "en/" | relative_url }})
 
-[ヒトメモ (日本語)]({{ "ja/" | relative_url }})
+[メモリオ (日本語)]({{ "ja/" | relative_url }})
