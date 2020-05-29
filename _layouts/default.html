@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 {% if page.permalink contains "/ja/" %}
 <html lang="ja">
-{% assign t = "ヒトメモ" %}
+{% assign t = "メモリオ" %}
 {% assign downloadBadge = "/images/Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" %}
 {% else %}
 <html lang="{{ site.lang | default: "en-US" }}">
-{% assign t = "Hitomemo" %}
+{% assign t = "Memorio" %}
 {% assign downloadBadge = "/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" %}
 {% endif %}
 <head>
@@ -25,7 +25,7 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ t | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <img style="border-radius: 20%; border: 1px solid #111111; margin-bottom: 1em" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <a href="https://apps.apple.com/us/app/Memorio/id1508929510">
