@@ -2,11 +2,14 @@
 {% if page.permalink contains "/ja/" %}
 <html lang="ja">
 {% assign t = "メモリオ" %}
-{% assign downloadBadge = "/images/Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" %}
+{% assign badgeWidth = "200" %}
+{% assign downloadBadgeIos = "/images/Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" %}
+{% assign downloadBadgeAndroid = "/images/google-play-badge_en.png" %}
 {% else %}
 <html lang="{{ site.lang | default: "en-US" }}">
 {% assign t = "Memorio" %}
-{% assign downloadBadge = "/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" %}
+{% assign downloadBadgeIos = "/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" %}
+{% assign downloadBadgeAndroid = "/images/google-play-badge_ja.png" %}
 {% endif %}
 <head>
     <meta charset="UTF-8">
@@ -29,8 +32,11 @@
         {% endif %}
 
         <a href="https://apps.apple.com/us/app/Memorio/id1508929510">
-            <img src="{{downloadBadge | relative_url}}" alt="Download from App Store" />
+            <img width="135" src="{{downloadBadgeIos | relative_url}}" alt="Download from App Store" />
         </a>
+        <a href="https://play.google.com/store/apps/details?id=io.github.suztomo.hitomemo">
+            <img width="150" src="{{downloadBadgeAndroid | relative_url}}" alt="Download from Play Store" />
+        </a>    
     </header>
     <section>
 

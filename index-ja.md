@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Memorio: 人物・やりとり記録メモ"
+title: "メモリオ: 人物・やりとりを記録するプロフィール手帳アプリ"
 permalink: /ja/
 ---
 
@@ -8,8 +8,8 @@ permalink: /ja/
 
 メモリオはあなたの周りの人とのやりとりを記録するメモアプリです。
 
-[MemorioのiOS版をApp Storeでダウンロード](https://apps.apple.com/us/app/Memorio/id1508929510):
-iPhone, iPad, iPod touchに対応しています。
+- [App Storeでメモリオダウンロード](https://apps.apple.com/us/app/Memorio/id1508929510)
+- [Play Storeでメモリオダウンロード](https://play.google.com/store/apps/details?id=io.github.suztomo.hitomemo)
 
 ## 開発日誌
 
