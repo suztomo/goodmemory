@@ -142,9 +142,9 @@ Article 12	Modification and Termination of Service
 
 Article 13	Disclaimer and Waiver of Warranties
 
-1.	THE COMPANY MAKES DOES NOT MAKE WARRANTIES, EXPRESS OR IMPLIED, (i) that the Service fits or is suitable for a particular purpose contemplated by the Registered User, (ii) that the Service has expected functions, commercial value, accuracy or usefulness, (iii) that the use by the Registered User of the Service complies with the laws and regulations or internal rules of industrial organizations that are applicable to the Registered User, or (iv) that the Service will be free of interruption or defects.
+1.	THE AUTHOR MAKES DOES NOT MAKE WARRANTIES, EXPRESS OR IMPLIED, (i) that the Service fits or is suitable for a particular purpose contemplated by the Registered User, (ii) that the Service has expected functions, commercial value, accuracy or usefulness, (iii) that the use by the Registered User of the Service complies with the laws and regulations or internal rules of industrial organizations that are applicable to the Registered User, or (iv) that the Service will be free of interruption or defects.
 
-2.	The Author shall not be liable for the damages incurred by the Registered User in relation to the Service in excess of the amount of the consideration paid by the Registered User to the Author for the immediately preceding [12 months]. UNDER NO CIRCUMSTANCES SHALL THE COMPANY BE LIABLE FOR INCIDENTAL, INDIRECT, SPECIAL OR FUTURE DAMAGES, OR LOST PROFITS.
+2.	The Author shall not be liable for the damages incurred by the Registered User in relation to the Service in excess of the amount of the consideration paid by the Registered User to the Author for the immediately preceding [12 months]. UNDER NO CIRCUMSTANCES SHALL THE AUTHOR BE LIABLE FOR INCIDENTAL, INDIRECT, SPECIAL OR FUTURE DAMAGES, OR LOST PROFITS.
 
 3.	Any transactions, communications and disputes arising between the Registered User and other Registered Users or a third party in connection with the Service or the Website shall be addressed and resolved by the Registered User at its responsibility.
 
